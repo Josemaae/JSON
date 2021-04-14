@@ -1,0 +1,32 @@
+{
+	"nombreCiudad":"Almendralejo",
+	"dias":[
+		{
+			"dia":"12",
+			"temperatura":"10",
+			"viento":"3",
+			"estado":{
+				"nombre":"soleado",
+				"icono":"url"
+			}
+		},
+		{
+			"dia":"13",
+			"temperatura":"17",
+			"viento":"5",
+			"estado":{
+				"nombre":"nublado",
+				"icono":"url"
+			}
+		},
+		{
+			"dia":"14",
+			"temperatura":"25",
+			"viento":"15",
+			"estado":{
+				"nombre":"soleado",
+				"icono":"url"
+			}
+		}
+	]
+}
